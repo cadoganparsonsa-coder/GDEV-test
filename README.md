@@ -1,3 +1,2 @@
 this game is not fully ready to be released
-web app :
-https://editor.gdevelop.io/browser_sw_preview/3/preview/index.html
+web app :http://192.168.56.1:2929
